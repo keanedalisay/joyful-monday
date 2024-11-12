@@ -724,7 +724,7 @@ var $async$Ko=A.S(function(b,c){if(b===1)return A.O(c,r)
 while(true)switch(s){case 0:n={}
 l=t.fF
 s=3
-return A.T(A.oM(a.rK("FontManifest.json")),$async$Ko)
+return A.T(A.oM(a.rK("/joyful-mystery/FontManifest.json")),$async$Ko)
 case 3:m=l.a(c)
 if(!m.gxd()){$.cU().$1("Font manifest does not exist at `"+m.a+"` - ignoring.")
 q=new A.qw(A.b([],t.vt))
